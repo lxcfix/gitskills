@@ -1,4 +1,4 @@
 # gitskills
-Creating a new branch is quick and simple 111222dve.
+Creating a new branch is quick and simple dve.
 
 
