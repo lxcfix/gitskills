@@ -1,3 +1,2 @@
 # gitskills
-# create branch
-# learn branch
+Creating a new branch is quick.
